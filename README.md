@@ -1,3 +1,2 @@
-# About me:
-Hi, everyone! 🐱‍👤
-- control tg bot: **@itstepaktau_bot**
+# Github page Azimov999
+Hi, everyone!
